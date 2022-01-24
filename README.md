@@ -3,7 +3,11 @@
 This file make one single image to Bird's Eye View image
 
 Car :: Tesla Model 3
+
 Output Image Resolution :: (512,665)
+
+###
+If you want to change the input image resolution, you have to calibrate the IMAGE_RATIO in BEV.py
 
 Original Image
 
